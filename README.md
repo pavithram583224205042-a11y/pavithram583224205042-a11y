@@ -1,7 +1,7 @@
 # **Hi👋,I'm Pavithra**
 ## I'm Currently Pursuing 2nd Year IT
 # 📚*I'm Learning*
-![](https://img.icons8.com/?size=100&id=112701&format=png&color=000000)![](https://img.icons8.com/?size=100&id=111973&format=png&color=000000)![](https://img.icons8.com/?size=100&id=14435&format=png&color=000000)
+![](https://img.icons8.com/?size=100&id=10246&format=png&color=000000)![](https://img.icons8.com/?size=100&id=10236&format=png&color=000000)![](https://img.icons8.com/?size=100&id=10263&format=png&color=000000)
 
 # **I Want to Become a WebDesigner💻**
 ![](https://storage.googleapis.com/webdesignledger.pub.network/LaT/2016/07/Web-Design-Trends.jpg)
